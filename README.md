@@ -1,3 +1,4 @@
+![logo](https://github.com/Heveraldob12/Heveraldob12/blob/main/Linkedin%20Banner%20Executivo%20Sofisticado%20Creme%20e%20Turquesa%20(1).png)
 <h1 align="center">Hi 👋, I'm Heveraldo Brito</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
 
