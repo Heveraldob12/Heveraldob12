@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Spark Porject](https://github.com/Heveraldob12/Spark-tweepy)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **GOOCLE CLOUD**
 
-- 🤝 I’m looking for help with [Alura Challenge](https://github.com/Heveraldob12/Alura-Challenge)
+- 🤝 I’m looking for help with Nothing 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Heveraldob12](https://github.com/Heveraldob12)
 
