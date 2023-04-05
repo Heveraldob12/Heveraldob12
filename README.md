@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Spark Porject](https://github.com/Heveraldob12/Spark-tweepy)
 
-- 🌱 I’m currently learning **AIRFLOW**
+- 🌱 I’m currently learning **Opencv**
 
 - 🤝 I’m looking for help with Nothing 
 
